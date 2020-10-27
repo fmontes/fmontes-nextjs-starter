@@ -49,7 +49,7 @@ export default function Home(): JSX.Element {
     return (
         <Container>
             <Head>
-                <title>@fmontes Next.JS starter</title>
+                <title>@fmontes Next.JS v10 starter</title>
                 <link href="/favicon.ico" rel="icon" />
             </Head>
             <Title>
