@@ -1,7 +1,6 @@
 import React, { ReactElement } from 'react';
 import { createGlobalStyle } from 'styled-components';
-import { Normalize } from 'styled-normalize'
-
+import { Normalize } from 'styled-normalize';
 
 const GlobalStyle = createGlobalStyle`
 :root {
